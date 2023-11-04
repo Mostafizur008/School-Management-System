@@ -14,7 +14,27 @@ MRSBD is developed for live server like tv streaming server built on Laravel 9..
 
 ![Screenshot 2023-11-05 000550](https://github.com/Mostafizur008/school-management-system/assets/107453434/fdc48d31-65fa-4aee-a78a-de7063ec01eb)
 
+![Screenshot 2023-11-05 000642](https://github.com/Mostafizur008/school-management-system/assets/107453434/e4a6a618-d09d-4462-b3b7-8e280f490734)
 
+![Screenshot 2023-11-05 000741](https://github.com/Mostafizur008/school-management-system/assets/107453434/a4f00567-2e79-45a6-a8cd-9d1de101eac7)
+
+![Screenshot 2023-11-05 001830](https://github.com/Mostafizur008/school-management-system/assets/107453434/993c304a-02ac-4f42-b0c6-a4bcfdbc9f56)
+
+![Screenshot 2023-11-05 000914](https://github.com/Mostafizur008/school-management-system/assets/107453434/15d448e0-e0ce-4cfc-b3cf-0b7ecee80889)
+
+![Screenshot 2023-11-05 001057](https://github.com/Mostafizur008/school-management-system/assets/107453434/4eee9c17-08d1-4d51-8b7a-7f30bb48d964)
+
+![Screenshot 2023-11-05 001409](https://github.com/Mostafizur008/school-management-system/assets/107453434/20a943af-5110-4b30-b7d7-a3b81b0ed0f9)
+
+![Screenshot 2023-11-05 001503](https://github.com/Mostafizur008/school-management-system/assets/107453434/683abe40-720a-4f59-870a-a3996e754318)
+
+![Screenshot 2023-11-05 001608](https://github.com/Mostafizur008/school-management-system/assets/107453434/ff7f69c0-687d-4ccb-af04-c94111d812f9)
+
+![Screenshot 2023-11-05 001709](https://github.com/Mostafizur008/school-management-system/assets/107453434/1444ab8c-fd07-46f0-86a3-2df596475a1f)
+
+![Screenshot 2023-11-05 001217](https://github.com/Mostafizur008/school-management-system/assets/107453434/036239d6-e008-44ca-a64e-279823125cfc)
+
+![Screenshot 2023-11-05 001305](https://github.com/Mostafizur008/school-management-system/assets/107453434/6669e8cc-ea3c-4e4f-8629-a00415021e1c)
 
 ## Requirements
 Check Laravel 9 Requirements https://laravel.com/docs/9.x
