@@ -37,7 +37,7 @@ MRSBD is developed for school management system built on Laravel 8..... Link : h
 ![Screenshot 2023-11-05 001305](https://github.com/Mostafizur008/school-management-system/assets/107453434/6669e8cc-ea3c-4e4f-8629-a00415021e1c)
 
 ## Requirements
-Check Laravel 9 Requirements https://laravel.com/docs/9.x
+Check Laravel 9 Requirements https://laravel.com/docs/8.x
 
 ## Installation
 - Install dependencies (composer install)<br>
@@ -53,7 +53,7 @@ Check Laravel 9 Requirements https://laravel.com/docs/9.x
 - JAVASCRIPT<br>
 - AJAX<br>
 - PHP<br>
-- LARAVEL 9<br>
+- LARAVEL 8<br>
 - MYSQL
 
 ## Contributing
