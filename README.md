@@ -1,7 +1,7 @@
 ![Busniess-Web-Banner-05](https://github.com/Mostafizur008/live-tv-server/assets/107453434/ca774808-f617-4f6a-be0d-a794ced44688)
 
 ## Laravel School Management System
-MRSBD is developed for school management system built on Laravel 8..... Link : https://m.mrsbd.xyz
+MRSBD is developed for school management system built on Laravel 8..... Link : https://k.mrsbd.xyz
 
 ### All Demo
 ![Screenshot 2023-11-05 000155](https://github.com/Mostafizur008/school-management-system/assets/107453434/44497102-5727-449a-a98d-fb09c0826a16)
